@@ -1,2 +1,7 @@
-# demo-estudio-juridico-sergio-ayala-y-asociado
-Demo web para Estudio Juridico SERGIO AYALA y ASOCIADOS — diseñada por eterlab.
+# Estudio Juridico SERGIO AYALA y ASOCIADOS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
